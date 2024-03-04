@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## Hey! I'm @nxexox (Deys Timofey) 👋
 
 I'm a software developer and ML engineer.
