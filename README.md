@@ -12,7 +12,7 @@ If my open source projects are useful for your product/company you can also spon
 
 You can find me on:
 
-* [GitHub as @tiangolo (you are here)](https://github.com/nxexox)
+* [GitHub as @nxexox (you are here)](https://github.com/nxexox)
 * [LinkedIn](www.linkedin.com/in/nxexox)
 
 
